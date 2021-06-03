@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions for the carrying on a philosophical correspondence, already begun in the county of Sommerset upon incouragement given from the Royal Society.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28474</idno><idno type="EEBO-CITATION">99832848</idno>
+  <idno type="VID">207430</idno>
+  <idno type="EEBO-PROQUEST">2240955926</idno>
+  
+            <idno type="STC">Wing P3786</idno>
+            <idno type="PROQUEST">99832848</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832848e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2151:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions for the carrying on a philosophical correspondence, already begun in the county of Sommerset upon incouragement given from the Royal Society.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Collins [illegible] Westminster Hall,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Philosophy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_propositions">
+            <pb facs="tcp:207430:1"/>
+            <pb n="1" facs="tcp:207430:1"/>
+            <head>PROPOSITIONS For the carrying on A <hi>Philosophical</hi> Correspondence, Already begun in the County of SOMMERSET, Upon incouragement given from the Royal Society.</head>
+            <list>
+               <item>I. THat the <hi>Correspondents</hi> carefully enquire into all the <hi>Rarities</hi> of Nature that may be in, or near the places of their respective Residences; such as the more extraordinary <hi>Phae<g ref="char:EOLhyphen"/>nomena</hi> of <hi>Minerals, Plants, Animals, Waters,</hi> &amp;c. and whatsoever else may serve to promote, and inlarge the <hi>History</hi> of <hi>Nature:</hi> which their <hi>Obser<g ref="char:EOLhyphen"/>vations</hi> they shall be ready to impart to the Persons, and in the manner hereafter to be men<g ref="char:EOLhyphen"/>tioned.</item>
+               <pb n="2" facs="tcp:207430:2"/>
+               <item> II. That they make what <hi>Moral</hi> Observations they can, for the better assisting each other in the knowledge of <hi>Humane</hi> Nature, <hi>&amp;c.</hi>
+               </item>
+               <item>III. That if any of the <hi>Correspondents</hi> shall have any particular <hi>Hypotheseis</hi> about the <hi>Phaenomena</hi> of <hi>Nature, Providence,</hi> or <hi>Morality,</hi> he be ready to impart such of them, as he thinks fit, to be consider'd by such others of the Company, as shall have a mind to ingage their thoughts in those matters.</item>
+               <item>IV. That if any Correspondent, or his Friend desire the thoughts of any others of the Cor<g ref="char:EOLhyphen"/>respondence upon any Notion of <hi>Philosophy,</hi> &amp;c. <hi>Those</hi> others shall be ready to gratifie him in his request; And if any of the Company shall be desirous of the Opinion of learned men in <hi>London,</hi> or either <hi>Ʋniversity,</hi> in any matters of inquiry, indeavours shall be used to procure it for him.</item>
+               <pb n="3" facs="tcp:207430:2"/>
+               <item> V. And if any of the Correspondents who stu<g ref="char:EOLhyphen"/>dies the <hi>Universal Character</hi> of the Learned <hi>Dr. Wilkins,</hi> (now Lord Bishop of <hi>Chester</hi>) shall have any <hi>Objections</hi> or doubts about it; or else have any thing to suggest for the facilitating, or promoting the learning or spreading of it; he shall impart the same to the Secretary of the Correspondence after to be mentioned: who will endeavour to procure an <hi>Answer</hi> to such <hi>Doubts,</hi> or to spread any such Communications, as may tend to the advantage of that noble Design.</item>
+               <item>VI. That in this Correspondence none of us shall presume to determine any thing in <hi>Speculative</hi> matters, or <hi>Controversies</hi> of Religion, <hi>dogmatical<g ref="char:EOLhyphen"/>ly;</hi> but that every one propose his Conceptions <hi>modestly</hi> in the way of <hi>Queries</hi> and <hi>Hypotheseis,</hi> for the preventing and excluding all <hi>wrangling di<g ref="char:EOLhyphen"/>sputes.</hi>
+               </item>
+               <item>VII. That the Company be r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ady to pay all respects
+<pb n="4" facs="tcp:207430:3"/>to the <hi>Royal Society,</hi> and to serve them with what intelligence we can procure in the Country to<g ref="char:EOLhyphen"/>wards the promoting their generous designs,</item>
+               <item>VIII. That the persons to be admitted into this Correspondence be only such as are <hi>sober, modest,</hi> and of good <hi>inclination</hi> to the promotion of <hi>use<g ref="char:EOLhyphen"/>ful knowledge.</hi>
+               </item>
+               <item>IX. That all the Members of this Company in<g ref="char:EOLhyphen"/>deavour to bring into the Correspondence, as many persons <hi>so</hi> qualified, as they shall find in<g ref="char:EOLhyphen"/>clinable to this design.</item>
+               <item>X. That there be a <hi>Secretary</hi> through whose hands all <hi>Enquiries,</hi> and <hi>Informations</hi> shall pass from one, or more of the Correspondents to the rest, and that Mr. <hi>Glanvill</hi> Rector of <hi>Bath</hi> be <hi>that Secretary.</hi>
+               </item>
+               <pb n="5" facs="tcp:207430:3"/>
+               <item> XI. That the Secretary be allowed an <hi>Amanuensis</hi> for the transcribing of so many Copies of infor<g ref="char:EOLhyphen"/>mations to be imparted, as shall serve for so ma<g ref="char:EOLhyphen"/>ny Correspondents as may conveniently spread them among the Company.</item>
+               <item>XII. That the Secretary set up a <hi>Foot-post</hi> to go weekly from <hi>Bath,</hi> the <hi>Place</hi> of <hi>Intelligence,</hi> to <hi>Bristol,</hi> the <hi>Centre</hi> of <hi>Conveyance,</hi> for the receiving, and sending of Letters, which are to be directed to Mr. <hi>Tim. Parker</hi> upon the <hi>Bridge</hi> in <hi>Bristol,</hi> who will receive and transmit them.</item>
+               <item>XIII. That the Correspondents, who live near one another, agree upon one convenient place in their Neighbourhood to which Letters are to be directed for them; and that they acquaint the Secretary with the place so agreed on.</item>
+               <pb n="6" facs="tcp:207430:4"/>
+               <item>XIV. That every Correspondent allow Half a Crown a Quarter towards the defraying the charges of the Correspondence.</item>
+               <item>XV. That every Correspondent pay in this money Quarterly to the person that ingaged him, which he is to return to Mr. <hi>Charles Thirlby</hi> of <hi>Wells,</hi> who will receive it, and clear the Accompts of the Secretary, which are to remain in the said M. <hi>Thirlby</hi>'s hands for any of the Correspondents to see, that desires it.</item>
+               <item>XVI. That the <hi>Secretary</hi> of the <hi>Correspondence</hi> hold Intelligence with the <hi>Secretary</hi> of the <hi>Royal Society.</hi>
+               </item>
+               <item>XVII. That the Secretary procure for as many of the Correspondents, as shall desire them, the <hi>Philosophical Transactions</hi> Monthly, and the
+<pb n="7" facs="tcp:207430:4"/>
+                  <hi>Mercurius Librarius;</hi> as also such other Books as they shall write to him to get from <hi>London.</hi> Or if any of them shall desire any of the <hi>Philosophical</hi> Instruments, as <hi>Telescopes, Microscopes, Barome<g ref="char:EOLhyphen"/>ters,</hi> &amp;c. care shall be taken for the getting the best sort of them at the cheapest rate.</item>
+               <item>XVIII That the Company have a particular <hi>Sta<g ref="char:EOLhyphen"/>tioner,</hi> and that Mr. <hi>James Collins</hi> at the <hi>King's-head</hi> in <hi>Westminster</hi> Hall be the Person.</item>
+               <item>XIX. That the Names of all the Correspondents which any one of the persons already ingaged shall procure, with their respective places of abode, be returned to the Secretary; and that upon their Names being entred in the Secretaries Book they shall be reputed as Members of the Company.</item>
+            </list>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="fragment_of_Miltons_treatise_on_education">
+            <pb n="1" facs="tcp:207430:5"/>
+            <head>Of Education.</head>
+            <head type="sub">To Master <hi>Samuel Hartlib.</hi>
+            </head>
+            <byline>
+               <add>By John Milton.</add>
+            </byline>
+            <opener>
+               <salute>Master Hartlib,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am long since persvvaded, that to say, ot doe ought worth memory, and imitation, no purpose or respect should sooner move us, then simply the love of God, and of mankinde. Neverthelesse to write now the reforming of Education, though it be one of the greatest and noblest designes, that can be thought on, and for the want whereof this nation perishes, I had not yet at this time been in<g ref="char:EOLhyphen"/>duc't, but by your earnest entreaties, and serious conjurements; as having my minde for the present halfe diverted in the persuance of some other assertions, the knowledge and the use of which, cannot but be a great furtherance both to the en<g ref="char:EOLhyphen"/>largement of truth, and honest living, with much more peace. Nor should the lavves of any private friendship have prevail'd with me to divide thus, or transpose my former thoughts, but that I see those aims, those actions which have won you with me the esteem of a person sent hither by some good providence from a farre country to be the occasion and the incitement of great good to this Iland. And, as I hear, you have obtain'd the same repute with men of most approved wisdom, and some of highest authority among us. Not to mention the learned correspon<g ref="char:EOLhyphen"/>dence which you hold in forreigne parts, and the extraordinary pains and diligence which you have us'd in this matter both heer, and beyond the Seas; either by the definite will of God so rusing, or the peculiar sway of nature, which also is Gods working. Neither can I thinke that so reputed, and so valn'd as you are, you would to the forfeit of your own discerning ability▪ impose upon me an unfit and over ponderous argument, but that the satisfaction which you professe to have receiv'd from those incidentall discourses which we have wander'd into, hath prest &amp; almost constrain'd you into a perswasion, that what you require from me in this point, I neither ought, nor can in conscience deferre beyond this time both of so much need at once, and so much opportunity to trie what God hath determin'd. I will not resist therefore, what ever it is either of divine, or humane obligement that you lay upon me; but will forthwith set down in writing, as you request me, that vo<g ref="char:EOLhyphen"/>luntary <hi>Idea,</hi> which hath long in silence presented it self to me, of a better Educati<g ref="char:EOLhyphen"/>on, in extent and comprehension farre more large, and yet of time farre shorter, and of attainment farre more certain, then hath been yet in practice. Briefe I shall endeavour to be for that which I have to say, assuredly this nation hath extreame need should be done sooner then spok'n. To tell you therefore what I have bene<g ref="char:EOLhyphen"/>fited herein among old renowned Authors, I shall spare; and to search what many modern <hi>Ianua's</hi> and <hi>Didactics</hi> more then ever I shall read, have projected, my in<g ref="char:EOLhyphen"/>clination leads me not. But if you can accept of these few observations which have flowr'd off, and are as it were the burnishing of many studious and contemplative yeers altogether spent in the search of religious and civil knowledge, and such as pleas'd you so well in the relating, I here give you them to dispose of.</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
